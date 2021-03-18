@@ -12,6 +12,7 @@ function myFunction() {
       gold: true,
     },
     002: {
+      id: 002,
       artist: "Freddie Mercury",
       title: "Bohemian Rhapsody",
       release_year: 1975,
